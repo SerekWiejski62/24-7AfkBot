@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "pertarius.aternos.me",
-    "port": 50340,
+    "ip": "SurvivalSMP-TnOQ.aternos.me",
+    "port": 55794,
     "version": "1.21.11",
     "try-creative": false
   },
